@@ -1,32 +1,10 @@
-## Welcome to GitHub Pages
+# **Basic Info:**
+* Name: *Lam Nguyen*
+* CS-Major at Boise State Univ.
+* YouTube: *https://www.youtube.com/channel/UC9-E9TM34yY9opG1Yz04Zlg*
+* Facebook: *https://www.facebook.com/xlk98*
 
-You can use the [editor on GitHub](https://github.com/lammmnnn/xlk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## **Project**
 
 ### Jekyll Themes
 
